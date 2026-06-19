@@ -16,6 +16,10 @@
 
 Lock A Specific Audio Device So Windows Isn't Allowed To Change
 
+
+<img width="800" height="465" alt="SoundManager" src="https://github.com/user-attachments/assets/38156657-8b17-4dab-89c3-4b281cccb7b4" />
+
+
 ## Why SoundManager?
 
 Windows loves switching your default audio device on its own — plug in a
@@ -26,9 +30,9 @@ annoying.
 SoundManager stops it. You lock the devices you want, and if Windows tries to
 switch them, SoundManager puts them right back automatically. Set it once, done.
 
+## Where are my settings saved?
 
-<img width="800" height="465" alt="SoundManager" src="https://github.com/user-attachments/assets/38156657-8b17-4dab-89c3-4b281cccb7b4" />
-
+`%LocalAppData%/SoundManager/`
 
 ---
 
